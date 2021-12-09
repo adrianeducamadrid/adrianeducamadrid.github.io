@@ -22,7 +22,7 @@
     text-align: center;
     position: relative;
     color: rgb(0, 83, 207);
-    white-space: normal;      
+    white-space: normal;   
 }
 
 .piedepagina {
@@ -55,4 +55,4 @@
 .nadar{border-radius: 50%;}
 .fondo1{background: url(Imagenes/fondo1.png)}
 .video{width: 25%; }
-.video2{width: 100%;}
+.video2 {width: 100%;height: 100%;text-align: center;}
